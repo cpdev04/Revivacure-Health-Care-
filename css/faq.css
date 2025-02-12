@@ -21,6 +21,7 @@
     padding: 15px;
     cursor: pointer;
     transition: background 0.3s;
+    font-family: "Roboto", sans-serif;
 }
 
 .faq-question:hover {
